@@ -6,3 +6,5 @@ var euroToYen = function(euroValue){
 }
 //***** YOUR CODE BELOW ******///
 
+// console.log("El monto en euros es de: "+ dollarToEuro(137) +" y el monto en Yenes es de: " + euroToYen(dollarToEuro(137)));
+console.log(euroToYen(dollarToEuro(137)))
